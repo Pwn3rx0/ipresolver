@@ -22,7 +22,15 @@ A fast and lightweight Go-based utility to resolve IPv4 and IPv6 addresses from 
 ./ipresolver -d example.com
 ```
 
+### Domain List from File
+```bash
+./ipresolver -f domains.txt
+```
 
+### Output to Files
+```bash
+./ipresolver -d example.com -ipv4 ipv4.txt -ipv6 ipv6.txt
+```
 ---
 
 ## 📦 Releases

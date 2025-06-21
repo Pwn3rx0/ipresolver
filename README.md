@@ -19,7 +19,7 @@ A fast and lightweight Go-based utility to resolve IPv4 and IPv6 addresses from 
 Visit the [Releases Page](https://github.com/Pwn3rx0/ipresolver/releases) to download precompiled binaries:
 
 | Platform |
-|----------|
+|---------------------------|
 | [`linux`](https://github.com/Pwn3rx0/ipresolver/releases/latest) |
 | [`windows`](https://github.com/Pwn3rx0/ipresolver/releases/latest) |
 
